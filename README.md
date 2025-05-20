@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0566-reshape-the-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0777-toeplitz-matrix) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0566-reshape-the-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AkshayPalSingh/Leetcode-/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
