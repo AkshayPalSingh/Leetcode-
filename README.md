@@ -90,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0649-dota2-senate) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/AkshayPalSingh/Leetcode-/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
